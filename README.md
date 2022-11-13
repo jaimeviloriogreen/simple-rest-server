@@ -8,5 +8,4 @@ You must execute these commands to start the project:
 
 You should have installed:
 - Node.js
-- SQLite3
 - pNpm
